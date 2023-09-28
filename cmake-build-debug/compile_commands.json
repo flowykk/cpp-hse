@@ -1,0 +1,582 @@
+[
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o CMakeFiles/contrib_catch_main.dir/contrib/catch/catch_main.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch/catch_main.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch/catch_main.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/multiplication -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/multiplication/CMakeFiles/test_multiplication.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/multiplication/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/multiplication/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/multiplication -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/multiplication/CMakeFiles/test_multiplication.dir/multiplication.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/multiplication/multiplication.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/multiplication/multiplication.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/hypotenuse -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/hypotenuse/CMakeFiles/test_hypotenuse.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/hypotenuse/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/hypotenuse/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/hypotenuse -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/hypotenuse/CMakeFiles/test_hypotenuse.dir/hypotenuse.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/hypotenuse/hypotenuse.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/hypotenuse/hypotenuse.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/next_even -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/next_even/CMakeFiles/test_next_even.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/next_even/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/next_even/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/next_even -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/next_even/CMakeFiles/test_next_even.dir/next_even.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/next_even/next_even.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/next_even/next_even.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/is_leap -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/is_leap/CMakeFiles/test_is_leap.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/is_leap/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/is_leap/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/is_leap -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/is_leap/CMakeFiles/test_is_leap.dir/is_leap.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/is_leap/is_leap.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/is_leap/is_leap.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/chocolate -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/chocolate/CMakeFiles/test_chocolate.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/chocolate/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/chocolate/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/chocolate -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/chocolate/CMakeFiles/test_chocolate.dir/chocolate.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/chocolate/chocolate.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/chocolate/chocolate.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/min_divisor -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/min_divisor/CMakeFiles/test_min_divisor.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/min_divisor/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/min_divisor/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/min_divisor -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/min_divisor/CMakeFiles/test_min_divisor.dir/min_divisor.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/min_divisor/min_divisor.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/min_divisor/min_divisor.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/sum_digits -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/sum_digits/CMakeFiles/test_sum_digits.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/sum_digits/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/sum_digits/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/sum_digits -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/sum_digits/CMakeFiles/test_sum_digits.dir/sum_digits.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/sum_digits/sum_digits.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/sum_digits/sum_digits.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/fibonacci -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/fibonacci/CMakeFiles/test_fibonacci.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/fibonacci/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/fibonacci/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/fibonacci -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/fibonacci/CMakeFiles/test_fibonacci.dir/fibonacci.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/fibonacci/fibonacci.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/fibonacci/fibonacci.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/reduce_fraction -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/reduce_fraction/CMakeFiles/test_reduce_fraction.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/reduce_fraction/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/reduce_fraction/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/reduce_fraction -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/reduce_fraction/CMakeFiles/test_reduce_fraction.dir/reduce_fraction.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/reduce_fraction/reduce_fraction.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/reduce_fraction/reduce_fraction.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/const_diagonal -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/const_diagonal/CMakeFiles/test_const_diagonal.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/const_diagonal/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/const_diagonal/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/const_diagonal -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/const_diagonal/CMakeFiles/test_const_diagonal.dir/const_diagonal.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/const_diagonal/const_diagonal.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/const_diagonal/const_diagonal.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/variable_diagonal -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/variable_diagonal/CMakeFiles/test_variable_diagonal.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/variable_diagonal/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/variable_diagonal/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/variable_diagonal -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/variable_diagonal/CMakeFiles/test_variable_diagonal.dir/variable_diagonal.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/variable_diagonal/variable_diagonal.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/variable_diagonal/variable_diagonal.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/palindrome -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/palindrome/CMakeFiles/test_palindrome.dir/palindrome.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/palindrome/palindrome.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/palindrome/palindrome.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/palindrome -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/palindrome/CMakeFiles/test_palindrome.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/palindrome/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/palindrome/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/password -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/password/CMakeFiles/test_password.dir/password.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/password/password.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/password/password.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/password -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/password/CMakeFiles/test_password.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/password/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/password/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/range -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/range/CMakeFiles/test_range.dir/range.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/range/range.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/range/range.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/range -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/range/CMakeFiles/test_range.dir/range_test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/range/range_test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/range/range_test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/factorization -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/factorization/CMakeFiles/test_factorization.dir/factorization.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/factorization/factorization.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/factorization/factorization.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/factorization -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/factorization/CMakeFiles/test_factorization.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/factorization/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/factorization/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/sort_students -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/sort_students/CMakeFiles/test_sort_students.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/sort_students/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/sort_students/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/sort_students -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/sort_students/CMakeFiles/test_sort_students.dir/sort_students.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/sort_students/sort_students.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/sort_students/sort_students.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/caesar_cipher -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/caesar_cipher/CMakeFiles/test_caesar_cipher.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/caesar_cipher/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/caesar_cipher/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/caesar_cipher -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/caesar_cipher/CMakeFiles/test_caesar_cipher.dir/caesar_cipher.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/caesar_cipher/caesar_cipher.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/caesar_cipher/caesar_cipher.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/sort -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/sort/CMakeFiles/test_sort.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/sort/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/sort/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/stack -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/stack/CMakeFiles/test_stack.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/stack/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/stack/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/stack -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/stack/CMakeFiles/test_stack.dir/stack.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/stack/stack.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/stack/stack.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/find_last -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/find_last/CMakeFiles/test_find_last.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/find_last/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/find_last/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/is_sorted_until -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/is_sorted_until/CMakeFiles/test_is_sorted_until.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/is_sorted_until/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/is_sorted_until/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/remove -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/remove/CMakeFiles/test_remove.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/remove/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/remove/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/rational -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/rational/CMakeFiles/test_rational.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/rational/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/rational/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/rational -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/rational/CMakeFiles/test_rational.dir/rational.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/rational/rational.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/rational/rational.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/array -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/array/CMakeFiles/test_array.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/array/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/array/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/tests_checking -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/tests_checking/CMakeFiles/test_tests_checking.dir/tests_checking.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/tests_checking/tests_checking.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/tests_checking/tests_checking.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/tests_checking -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/tests_checking/CMakeFiles/test_tests_checking.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/tests_checking/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/tests_checking/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/word2vec -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/word2vec/CMakeFiles/test_word2vec.dir/word2vec.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/word2vec/word2vec.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/word2vec/word2vec.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/word2vec -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/word2vec/CMakeFiles/test_word2vec.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/word2vec/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/word2vec/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/admission -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/admission/CMakeFiles/test_admission.dir/admission.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/admission/admission.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/admission/admission.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/admission -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/admission/CMakeFiles/test_admission.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/admission/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/admission/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/scorer -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/scorer/CMakeFiles/test_scorer.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/scorer/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/scorer/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/scorer -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/scorer/CMakeFiles/test_scorer.dir/scorer.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/scorer/scorer.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/scorer/scorer.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/provinces -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/provinces/CMakeFiles/test_provinces.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/provinces/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/provinces/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/provinces -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/provinces/CMakeFiles/test_provinces.dir/provinces.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/provinces/provinces.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/provinces/provinces.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/unixpath -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/unixpath/CMakeFiles/test_unixpath.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/unixpath/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/unixpath/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/unixpath -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/unixpath/CMakeFiles/test_unixpath.dir/unixpath.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/unixpath/unixpath.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/unixpath/unixpath.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/copy -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/copy/CMakeFiles/test_copy.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/copy/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/copy/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/rotate -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/rotate/CMakeFiles/test_rotate.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/rotate/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/rotate/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/unique -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/unique/CMakeFiles/test_unique.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/unique/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/unique/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/queue -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/queue/CMakeFiles/test_queue.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/queue/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/queue/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/queue -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/queue/CMakeFiles/test_queue.dir/queue.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/queue/queue.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/queue/queue.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/string_view -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/string_view/CMakeFiles/test_string_view.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/string_view/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/string_view/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/string_view -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/string_view/CMakeFiles/test_string_view.dir/string_view.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/string_view/string_view.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/string_view/string_view.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/string -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/string/CMakeFiles/test_string.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/string/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/string/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/string -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/string/CMakeFiles/test_string.dir/cppstring.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/string/cppstring.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/string/cppstring.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/cstring -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/cstring/CMakeFiles/test_cstring.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/cstring/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/cstring/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/cstring -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/cstring/CMakeFiles/test_cstring.dir/cstring.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/cstring/cstring.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/cstring/cstring.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_vector -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_vector/CMakeFiles/test_geometry_vector.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_vector/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_vector/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_vector -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_vector/CMakeFiles/test_geometry_vector.dir/vector.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_vector/vector.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_vector/vector.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_point -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_point/CMakeFiles/test_geometry_point.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_point/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_point/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_point -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_point/CMakeFiles/test_geometry_point.dir/vector.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_point/vector.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_point/vector.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_point -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_point/CMakeFiles/test_geometry_point.dir/point.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_point/point.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_point/point.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_point -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_point/CMakeFiles/test_geometry_point.dir/segment.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_point/segment.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_point/segment.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_line -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_line/CMakeFiles/test_geometry_line.dir/line.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_line/line.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_line/line.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_line -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_line/CMakeFiles/test_geometry_line.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_line/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_line/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_line -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_line/CMakeFiles/test_geometry_line.dir/vector.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_line/vector.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_line/vector.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_line -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_line/CMakeFiles/test_geometry_line.dir/point.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_line/point.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_line/point.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_line -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_line/CMakeFiles/test_geometry_line.dir/segment.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_line/segment.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_line/segment.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_segment -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_segment/CMakeFiles/test_geometry_segment.dir/line.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_segment/line.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_segment/line.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_segment -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_segment/CMakeFiles/test_geometry_segment.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_segment/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_segment/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_segment -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_segment/CMakeFiles/test_geometry_segment.dir/vector.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_segment/vector.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_segment/vector.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_segment -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_segment/CMakeFiles/test_geometry_segment.dir/point.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_segment/point.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_segment/point.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_segment -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_segment/CMakeFiles/test_geometry_segment.dir/segment.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_segment/segment.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_segment/segment.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_ray -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_ray/CMakeFiles/test_geometry_ray.dir/line.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_ray/line.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_ray/line.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_ray -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_ray/CMakeFiles/test_geometry_ray.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_ray/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_ray/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_ray -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_ray/CMakeFiles/test_geometry_ray.dir/vector.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_ray/vector.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_ray/vector.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_ray -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_ray/CMakeFiles/test_geometry_ray.dir/point.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_ray/point.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_ray/point.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_ray -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_ray/CMakeFiles/test_geometry_ray.dir/segment.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_ray/segment.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_ray/segment.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_ray -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_ray/CMakeFiles/test_geometry_ray.dir/ray.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_ray/ray.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_ray/ray.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_polygon -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_polygon/CMakeFiles/test_geometry_polygon.dir/line.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_polygon/line.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_polygon/line.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_polygon -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_polygon/CMakeFiles/test_geometry_polygon.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_polygon/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_polygon/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_polygon -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_polygon/CMakeFiles/test_geometry_polygon.dir/vector.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_polygon/vector.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_polygon/vector.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_polygon -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_polygon/CMakeFiles/test_geometry_polygon.dir/point.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_polygon/point.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_polygon/point.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_polygon -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_polygon/CMakeFiles/test_geometry_polygon.dir/segment.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_polygon/segment.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_polygon/segment.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_polygon -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_polygon/CMakeFiles/test_geometry_polygon.dir/polygon.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_polygon/polygon.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_polygon/polygon.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_circle -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_circle/CMakeFiles/test_geometry_circle.dir/circle.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_circle/circle.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_circle/circle.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_circle -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_circle/CMakeFiles/test_geometry_circle.dir/line.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_circle/line.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_circle/line.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_circle -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_circle/CMakeFiles/test_geometry_circle.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_circle/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_circle/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_circle -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_circle/CMakeFiles/test_geometry_circle.dir/vector.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_circle/vector.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_circle/vector.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_circle -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_circle/CMakeFiles/test_geometry_circle.dir/point.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_circle/point.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_circle/point.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_circle -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/geometry_circle/CMakeFiles/test_geometry_circle.dir/segment.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_circle/segment.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/geometry_circle/segment.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/dedup -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/dedup/CMakeFiles/test_dedup.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/dedup/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/dedup/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/unique-ptr -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/unique-ptr/CMakeFiles/test_unique_ptr.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/unique-ptr/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/unique-ptr/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/vector -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/vector/CMakeFiles/test_vector.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/vector/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/vector/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/reader -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/reader/CMakeFiles/test_reader.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/reader/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/reader/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/reader -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/reader/CMakeFiles/test_reader.dir/readers_util.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/reader/readers_util.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/reader/readers_util.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/reader -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/reader/CMakeFiles/test_reader.dir/reader.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/reader/reader.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/reader/reader.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/reader -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/reader/CMakeFiles/test_reader.dir/utils.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/reader/utils.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/reader/utils.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/itertools -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/itertools/CMakeFiles/test_itertools.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/itertools/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/itertools/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/any -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/any/CMakeFiles/test_any.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/any/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/any/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/any -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/any/CMakeFiles/test_any.dir/any.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/any/any.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/any/any.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/enumerate -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/enumerate/CMakeFiles/test_enumerate.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/enumerate/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/enumerate/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/reversed -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/reversed/CMakeFiles/test_reversed.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/reversed/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/reversed/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/list -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/list/CMakeFiles/test_list.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/list/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/list/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/smart-ptr -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/smart-ptr/CMakeFiles/test_smart_ptr.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/smart-ptr/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/smart-ptr/test.cpp"
+},
+{
+  "directory": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/util -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/unordered_set -I/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics -std=gnu++20 -o tasks/unordered_set/CMakeFiles/test_unordered_set.dir/test.cpp.o -c /Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/unordered_set/test.cpp",
+  "file": "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/tasks/unordered_set/test.cpp"
+}
+]

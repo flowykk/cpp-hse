@@ -1,0 +1,335 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.25.2/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Platform/Darwin-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.25.2/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.25.2/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Platform/Darwin.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Compiler/AppleClang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Platform/Apple-AppleClang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Platform/Apple-Clang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Platform/Apple-Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Compiler/AppleClang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Platform/Apple-AppleClang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Platform/Apple-Clang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Platform/Apple-Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"path" : "cmake/BuildFlags.cmake"
+		},
+		{
+			"path" : "cmake/TestSolution.cmake"
+		},
+		{
+			"path" : "cmake/FindCatch.cmake"
+		},
+		{
+			"path" : "tasks/multiplication/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/hypotenuse/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/next_even/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/is_leap/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/chocolate/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/min_divisor/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/sum_digits/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/fibonacci/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/reduce_fraction/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/const_diagonal/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/variable_diagonal/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/palindrome/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/password/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/range/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/factorization/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/sort_students/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/caesar_cipher/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/sort/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/stack/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/find_last/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/is_sorted_until/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/remove/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/rational/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/array/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/tests_checking/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/word2vec/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/admission/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/scorer/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/provinces/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/unixpath/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/copy/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/rotate/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/unique/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/queue/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/string_view/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/string/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/cstring/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/geometry_vector/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/geometry_point/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/geometry_line/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/geometry_segment/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/geometry_ray/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/geometry_polygon/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/geometry_circle/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/dedup/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/unique-ptr/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/vector/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/reader/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/itertools/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/any/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/enumerate/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/reversed/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/list/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/smart-ptr/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/unordered_set/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk/cmake-build-debug",
+		"source" : "/Users/danila/se-228-2-Danila-Rakhmanov-flowykk"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
